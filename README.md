@@ -1,9 +1,11 @@
-# Integrative__Project
+# Project
 
 
 
 Shareable link:
-https://integrativeproject-quantumcircuit.streamlit.app/
+https://project-quantumcircuit.streamlit.app/
+
+
 
 
 
